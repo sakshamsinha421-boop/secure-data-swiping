@@ -1,0 +1,6 @@
+{
+  "name": "SecuWipe",
+  "description": "Secure Data Wiping for Trustworthy IT Asset Recycling",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
